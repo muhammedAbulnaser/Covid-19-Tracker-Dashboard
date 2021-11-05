@@ -3,4 +3,4 @@ This is a dashboard made by dash and plotly, it consists of two non-interactive 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/63162632/140589340-f7b68853-2a5c-4c6b-b10f-f0b4f0c670d4.png)
+![image](https://user-images.githubusercontent.com/63162632/140589635-1e618395-6cd3-4b64-8e08-66d51d15f925.png)
